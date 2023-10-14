@@ -1,0 +1,42 @@
+/* src/Portfolio.css */
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    color: white;
+    padding: 20px;
+  }
+  
+  .App-footer {
+    background-color: #282c34;
+    color: white;
+    padding: 10px;
+  }
+  
+  .Portfolio {
+    margin: 20px;
+    padding: 20px;
+  }
+  
+  .About {
+    text-align: left;
+  }
+  
+  .Project {
+    margin: 10px 0;
+    text-align: left;
+  }
+  
+  .Contact {
+    text-align: left;
+  }
+  
+  a {
+    color: #61dafb;
+  }
+  
+  /* Add more custom styles as needed */
+  

@@ -1,0 +1,42 @@
+.About {
+    text-align: left;
+    padding: 20px;
+  }
+  
+.About h2 {
+    font-size: 1.8rem;
+    color: #0074d9;
+    margin-bottom: 10px;
+}
+  
+.About p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+
+.ImageUpload {
+    margin: 20px 0;
+}
+  
+.ImageUpload input {
+    display: none;
+}
+  
+.ImageUpload img {
+    max-width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+.ImageUpload input {
+    display: none;
+  }
+  
+  .ImageUpload .custom-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0074d9;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }

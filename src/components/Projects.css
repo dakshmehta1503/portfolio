@@ -1,0 +1,25 @@
+.Projects {
+    padding: 20px;
+    text-align: left;
+}
+  
+.Projects h2 {
+    font-size: 1.8rem;
+    color: #0074d9;
+    margin-bottom: 10px;
+}
+  
+.Projects .Project {
+    margin: 10px 0;
+}
+  
+.Projects .Project h3 {
+    font-size: 1.4rem;
+    color: #333;
+    margin: 5px 0;
+}
+  
+.Projects .Project p {
+    font-size: 1.2rem;
+    line-height: 1.4;
+}

@@ -1,0 +1,22 @@
+.Contact {
+    padding: 20px;
+    text-align: left;
+}
+  
+.Contact h2 {
+    font-size: 1.8rem;
+    color: #0074d9;
+    margin-bottom: 10px;
+}
+  
+.Contact p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+  
+.Contact a {
+    color: #0074d9;
+    text-decoration: none;
+    font-size: 1.2rem;
+    margin-right: 10px;
+}
